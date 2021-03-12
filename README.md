@@ -2,7 +2,8 @@
 
 Generator Gawl is semi-obscure 1998 scifi anime that I rather liked and I wondered if I could find an anime simialr to it.
 
-A while back someone dumped the MyAnimeList Database to Kaggle, so I used that as my data source.
+A while back someone dumped the MyAnimeList Database to Kaggle (https://www.kaggle.com/azathoth42/myanimelist),
+so I used that as my data source.
 
 I had the most success by using gensim to train a Word2Vec embedding of a user's ratings
 (i.e. order the ratings by time, then you get a "sentence" of rating "words", where each individual word is an anime_id),
