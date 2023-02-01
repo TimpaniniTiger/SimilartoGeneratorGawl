@@ -1,6 +1,6 @@
 # SimilartoGeneratorGawl
 
-Generator Gawl is semi-obscure 1998 scifi anime that I rather liked and I wondered if I could find an anime simialr to it.
+Generator Gawl is semi-obscure 1998 scifi anime that I rather liked; I wondered if I could find an anime similar to it.
 
 A while back someone dumped the MyAnimeList Database to Kaggle (https://www.kaggle.com/azathoth42/myanimelist),
 so I used that as my data source.
